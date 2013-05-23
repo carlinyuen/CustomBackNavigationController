@@ -1,6 +1,5 @@
 //
 //  UINavigationCustomBackController.h
-//  Zeitgeist 2012
 //
 //  Created by Carlin on 12/19/12.
 //  Copyright (c) 2012 Google. All rights reserved.
